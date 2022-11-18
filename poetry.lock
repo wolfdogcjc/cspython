@@ -1,0 +1,15 @@
+[[package]]
+name = "everything-tkinter"
+version = "0.2"
+description = "Everything-Tkinter gives you everything you need for tkinter. Made by the creator of Pip-for-CMD."
+category = "main"
+optional = false
+python-versions = ">=3"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "8ee3c75d7dbda876fe66600714b52e6a525b7da9391d30d7a19604bca64522b9"
+
+[metadata.files]
+everything-tkinter = []
